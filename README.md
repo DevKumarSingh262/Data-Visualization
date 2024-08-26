@@ -22,3 +22,13 @@ Here are some examples of the visualizations you'll find in this repository:
 <li>Heatmaps: Displaying data density with Seaborn and Matplotlib.</li>
 <li>Geographical Plots: Mapping data with Geopandas and Plotly.</li>
 </ul>
+<h3>Contributing</h3>
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+<ol>
+<li>Fork the repository.</li>
+<li>Create a new branch: git checkout -b feature/your-feature-name.</li>
+<li>Make your changes and commit them: git commit -m 'Add some feature'.</li>
+<li>Push to the branch: git push origin feature/your-feature-name.</li>
+<li>Submit a pull request.</li>
+<li>Please make sure to update tests as appropriate.</li>
+</ol>
